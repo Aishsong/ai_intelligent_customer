@@ -28,8 +28,8 @@
 
 1. **克隆项目**
    ```bash
-   git clone <项目仓库地址>
-   cd <项目仓库目录>
+   git clone git@github.com:Aishsong/ai_intelligent_customer.git
+   cd ai_intelligent_customer
    ```
 
 2. **创建虚拟环境（推荐）**
